@@ -1,0 +1,5 @@
+[run]
+source = trytond.modules.payment-gateway-stripe
+
+[report]
+omit = */tests/*, */setup.py
